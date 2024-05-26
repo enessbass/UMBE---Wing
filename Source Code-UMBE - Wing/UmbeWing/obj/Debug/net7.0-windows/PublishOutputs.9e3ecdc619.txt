@@ -1,0 +1,5 @@
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\publish\UmbeWing.exe
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\publish\UmbeWing.dll
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\publish\UmbeWing.deps.json
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\publish\UmbeWing.runtimeconfig.json
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\publish\UmbeWing.pdb

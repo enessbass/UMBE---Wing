@@ -1,0 +1,15 @@
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\UmbeWing.exe
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\UmbeWing.deps.json
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\UmbeWing.runtimeconfig.json
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\UmbeWing.dll
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\bin\Debug\net7.0-windows\UmbeWing.pdb
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.csproj.AssemblyReference.cache
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.AssemblyInfoInputs.cache
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.AssemblyInfo.cs
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.csproj.CoreCompileInputs.cache
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.dll
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\refint\UmbeWing.dll
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.pdb
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\UmbeWing.genruntimeconfig.cache
+C:\Users\enes1\Desktop\UMBE - Wing\UmbeWing\obj\Debug\net7.0-windows\ref\UmbeWing.dll
