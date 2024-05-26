@@ -8,6 +8,3 @@ User Manual
 
 ![umbe wing](https://github.com/enessbass/UMBE---Wing/assets/96183622/897e1b94-70dc-45ce-b0c6-004ba95efaf5)
 
-Başlangıç = Determine the initial angle of the wing.
-Bitiş = Determine the final angle of the wing.
-Artış = Determine the increment value of the wing angle.
